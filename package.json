@@ -1,0 +1,33 @@
+{
+  "name": "gaggle",
+  "version": "1.0.0-alpha",
+  "description": "Gaggle is a DOM based JavaScript router with the goal of easy CMS theming.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --color --mode production",
+    "dev": "webpack --color --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickLediet/gaggle.git"
+  },
+  "keywords": [
+    "router",
+    "javascript",
+    "javascript-router"
+  ],
+  "author": "Nick Lediet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickLediet/gaggle/issues"
+  },
+  "homepage": "https://github.com/NickLediet/gaggle#readme",
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
+    "babel-loader": "^8.2.3",
+    "webpack": "^5.63.0",
+    "webpack-cli": "^4.9.1"
+  }
+}
