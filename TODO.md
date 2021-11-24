@@ -8,6 +8,7 @@
 * [ ] "a user can register a controller to handle the callbacks and behvior"
 * [ ] Automated testing
 * [ ] Distribute on NPM
+* [ ] Add docs
 
 ### Nice to haves
 * [ ] CI/CD w/ Github actions
