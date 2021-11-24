@@ -7,6 +7,7 @@
 * [ ] "a user can register middleware"
 * [ ] "a user can register a controller to handle the callbacks and behvior"
 * [ ] Automated testing
+* [ ] Distribute on NPM
 
 ### Nice to haves
 * [ ] CI/CD w/ Github actions
